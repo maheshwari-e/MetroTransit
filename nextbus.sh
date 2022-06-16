@@ -3,8 +3,8 @@
 #
 # Purpose: A simple shell script to get next trip departure time
 # Output: 8 Minutes (String)
-# Usage: .\nextbush.sh "{BUS ROUTE NAME}" "{BUS STOP NAME}" "{DIRECTION}"
-# Example: .\nextbush.sh "METRO Blue Line" "Target Field Station Platform 1" "Southbound"
+# Usage: ./nextbush.sh "{BUS ROUTE NAME}" "{BUS STOP NAME}" "{DIRECTION}"
+# Example: ./nextbush.sh "METRO Blue Line" "Target Field Station Platform 1" "Southbound"
 #
 
 ROUTE=$1
